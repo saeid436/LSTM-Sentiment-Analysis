@@ -1,4 +1,4 @@
-# RNN-Sentiment-Analysis
+# LSTM-Sentiment-Analysis
 Use LSTM network for Sentiment Analysis on IMDB movie review dataset from keras...
 
 LSTM Source:  https://colah.github.io/posts/2015-08-Understanding-LSTMs/
